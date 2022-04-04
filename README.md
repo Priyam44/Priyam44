@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyam44
+- 👋 Hi, I’m Priyam Gupta
 - 👀 I’m interested in Computational Fluid Dynamics and using data driven methods to enhance and discover computational models
 - 🌱 I’m currently learning Machine Learning OPs
 - 💞️ I’m looking to collaborate on Machine Learning or CFD projects
