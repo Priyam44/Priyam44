@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyam Gupta
 - 👀 I’m interested in Computational Fluid Dynamics and using data driven methods to enhance and discover computational models
 - I’m currently learning Machine Learning OPs
-- I’m looking to collaborate on Machine Learning or CFD projects
+- I’m looking to collaborate on CFD and Machine Learning projects
 - How to reach me priyam.300gupta@gmail.com
 
 <!---
